@@ -1,9 +1,5 @@
 h1{
-<<<<<<< HEAD
-	color: Green;
-=======
 	color: YELLOW;
->>>>>>> bob
 	font-family: verdana;
 	background: pink;
 }
@@ -15,4 +11,7 @@ main{
 }
 header{
 background: rgba(0, 0, 0, 0.2);	
+}
+p{
+	background : rgba(0, 0, 0, 0.1);
 }
