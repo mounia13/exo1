@@ -1,5 +1,9 @@
 h1{
+<<<<<<< HEAD
 	color: Green;
+=======
+	color: YELLOW;
+>>>>>>> bob
 	font-family: verdana;
 	background: pink;
 }
